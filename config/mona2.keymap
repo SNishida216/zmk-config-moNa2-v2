@@ -43,6 +43,16 @@
             bindings = <&kp SQT>;
             key-positions = <19 20>;
         };
+
+        dqt {
+            bindings = <&kp DOUBLE_QUOTES>;
+            key-positions = <19 20 21>;
+        };
+
+        colon {
+            bindings = <&kp COLON>;
+            key-positions = <18 19 21>;
+        };
     };
 
     macros {
