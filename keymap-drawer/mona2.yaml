@@ -36,8 +36,8 @@ layers:
   - {t: /, h: RIGHT SHIFT}
   - ESCAPE
   - BACKSPACE
-  - {t: LANGUAGE 1, h: LEFT ALT}
-  - {t: LANGUAGE 2, h: LEFT GUI}
+  - {t: LANGUAGE 2, h: LEFT ALT}
+  - {t: LANGUAGE 1, h: LEFT GUI}
   - {t: SPACE, h: NUM}
   - {t: '&to_layer_0 SPACE', h: '5'}
   - BACKSPACE
@@ -123,7 +123,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LANGUAGE 2
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
